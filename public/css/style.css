@@ -1,0 +1,11 @@
+#chart svg {
+  height: 400px;
+}
+
+.grid .tick {
+    stroke: #000	;
+    opacity: 0.9;
+}
+.grid path {
+      stroke-width: 0;
+}
